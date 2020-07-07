@@ -8,8 +8,7 @@
 ## create a class and move the code block inside the class
 
 
-
-# second exercise will be posted shortly
+# 2nd Exercise
 # create a test for below file using ```pytest``` 
 ```python
 import math
@@ -20,5 +19,5 @@ def find_sqrt(num):
 def find_ceil(num):
     return math.ceil(num)
 
-- You can hard code the values in your tests using assert
+# HINT:- You can hard code the values in your tests using assert
 ```
